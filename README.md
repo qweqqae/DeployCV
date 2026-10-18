@@ -1,5 +1,17 @@
 # Telegram Portfolio Mini App
 
+## Examples
+
+<p align="center">
+  <img src="docs/assets/example-mini-app.png" alt="Mini App — profile editor and public card" width="420" />
+  &nbsp;&nbsp;
+  <img src="docs/assets/example-inline-share.png" alt="Share preview in Telegram chat" width="420" />
+</p>
+
+<p align="center"><sub>Mini App profile · Inline share card</sub></p>
+
+---
+
 Open-source stack for a **Telegram Mini App + bot** that lets users build a shareable portfolio card and public profile page. Self-host the web app, database, edge API, and bot under your own bot name and domain.
 
 **One line:** portfolio visit card in Telegram for freelancers — one link for clients, no separate website.
