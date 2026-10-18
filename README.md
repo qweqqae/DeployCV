@@ -16,6 +16,8 @@ Open-source stack for a **Telegram Mini App + bot** that lets users build a shar
 
 **One line:** portfolio visit card in Telegram for freelancers — one link for clients, no separate website.
 
+**Fresh deploy:** step-by-step checklist → [docs/DEPLOY_CHECKLIST.md](docs/DEPLOY_CHECKLIST.md).
+
 ---
 
 ## Architecture
