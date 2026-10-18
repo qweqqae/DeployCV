@@ -1,0 +1,1 @@
+ALTER TABLE tech_stack ADD COLUMN IF NOT EXISTS badge_size TEXT DEFAULT 'md';

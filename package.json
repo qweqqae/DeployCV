@@ -1,0 +1,14 @@
+{
+  "name": "prooflab-portfolio",
+  "private": true,
+  "scripts": {
+    "build": "cd web && npm install && npm run build",
+    "dev:web": "cd web && npm run dev",
+    "dev:bot": "cd bot && npm start"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.0",
+    "grammy": "^1.35.0",
+    "supabase": "^2.119.0"
+  }
+}

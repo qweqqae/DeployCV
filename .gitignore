@@ -1,0 +1,14 @@
+node_modules/
+dist/
+web/dist/
+schoolproject/
+.env
+.env.local
+.env.edge
+bot/.env
+web/.env
+examples/**/.env
+*.log
+.DS_Store
+.vercel
+supabase/.temp/
